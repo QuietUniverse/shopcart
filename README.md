@@ -6,3 +6,6 @@ An e-commerce website prototype based on Best Buy.
 
 - Search product
 - View product details
+
+### Link
+https://quietuniverse-shopcart.netlify.app/
